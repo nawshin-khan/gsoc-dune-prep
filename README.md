@@ -1,13 +1,14 @@
-# GSoC 2026 Preparation: DUNE
+# GSoC 2026: DUNE Project Prep
 
-I am Nawshin Khan, a Physics student at Khulna University. I am using this repository to learn the fundamentals of scientific computing and data benchmarking.
+I am a 3rd-year Physics student at Khulna University. I am using this repo to develop the Python skills required for the **Fine Grained Storage** project.
 
-### 📚 My Progress
-* **Benchmarking:** Learning to use Python timers to measure code speed.
-* **C++:** Reviewing university coursework on logic and loops.
-* **Physics:** Studying the goals of the DUNE experiment.
+### 🐍 Python Progress
+* **Benchmarking:** Practicing simple scripts to measure data processing speed.
+* **Analysis:** Learning how Python can be used to identify slow code (inefficiencies).
 
-### 🎓 Background
-* **Education:** Currently pursuing a B.Sc. in Physics (3.62 CGPA).
-* **Focus:** I performed well in my university C Programming and Numerical Analysis classes, which I am now applying to this project.
-* **Goal:** I am a beginner in professional software, but I am dedicated to learning how to support neutrino research through better data storage.
+### 🎓 Academic Background
+* **Physics:** Focused on High-Energy and Neutrino physics.
+* **Math:** I have a strong background in Numerical Analysis (Top of class).
+* **Current Standing:** 3.62 CGPA.
+
+I am new to professional open-source projects, but I am a dedicated student ready to work hard on the DUNE evaluation tasks.
